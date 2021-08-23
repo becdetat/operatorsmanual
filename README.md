@@ -26,15 +26,15 @@
 - When I personally get stressed I tend to go silent and internalise things. It’s very easy to slip into imposter syndrome mode.
 
 ## When things start to feel stressful, I need this:
-- A circuit breaker - getting away from the computer for a while.
-- Have lunch
-- Go for a walk
-- I might have an hour nap, and spend the first 30 minutes thinking about the problem and potential solutions. Most of the time I work out the solution during a nap.
+- A circuit breaker - getting away from the computer for a while:
+  - Have lunch
+  - Go for a walk
+  - I might have an hour nap, and spend the first 30 minutes thinking about the problem and potential solutions while physically relaxing. Most of the time I work out the solution during a nap.
 - Changing focus works well also
 - Sometimes it becomes obvious physically that I am highly stressed or agitated. I appreciate understanding and being gently asked if I’m ok, it gives me a push to ask my support network for additional help.
 
 ## What can people do to make you feel appreciated and supported in your work?
-• Letting me know when something I have influenced is working well or has improved their working life
+- Letting me know when something I have influenced is working well or has improved their working life
 
 ## What qualities do you particularly value in people who work with you?
 - Honesty
