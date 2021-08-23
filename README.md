@@ -1,7 +1,7 @@
 # Rebecca's Operator's Manual
 
 
-## In your life/work, what do you look like on your best day? (What are the mindsets, attitudes, and behaviors that characterize you when you’re at your best?)
+## In your life/work, what do you look like on your best day? (What are the mindsets, attitudes, and behaviours that characterise you when you’re at your best?)
 - I’m not tired
 - I’m excited to start the day
 - I have a relatively clean slate to work from, most of yesterday’s tasks are done
@@ -59,7 +59,6 @@
 - I like to have processes around how I work
   - I have a list of four areas that I read to start tackling the day: Slack, emails, P2s, GitHub
   - I have a Trello board of items to think about, which I cycle through during the day when I’m not doing other things
-- I tried using the Pomodoro Technique a few years ago and liked it but didn’t end up sticking with it, I don’t know why
 - The first ten years of my programming career I was the only programmer (and IT manager) in a financial planning firm, so I basically taught myself everything I needed to know from junior programmer up to senior programmer. Including all the embarrassing mistakes young people make in their jobs.
 - I then worked for almost five years at a consultancy, I would recommend this to any senior programmer for at least a couple of years because the different perspectives you see from month to month (not just programming but leadership skills if you’re interested in it) are very eye opening, largely around what not to do and how to understand and correctly use your influence as a consultant.
 
