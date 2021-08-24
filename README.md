@@ -37,6 +37,7 @@
 - Letting me know when something I have influenced is working well or has improved their working life
 
 ## What qualities do you particularly value in people who work with you?
+- Curiosity
 - Honesty
 - Inclusiveness
 - Willingness to learn and improve
